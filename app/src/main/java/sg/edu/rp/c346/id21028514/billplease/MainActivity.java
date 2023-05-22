@@ -45,10 +45,6 @@ public class MainActivity extends AppCompatActivity {
         radioPayLah = findViewById(R.id.radioPayLah);
         EndHP = findViewById(R.id.editTextHP);
 
-
-
-
-
         buttonEndSplit.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
